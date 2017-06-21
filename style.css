@@ -1,0 +1,15 @@
+p {
+	font-size: 48px;
+	font-family: monospace;
+}
+
+#redspan{
+	color: red;
+}
+#bluespan{
+	color: blue;
+}
+
+#whitespan{
+	color: white
+}
